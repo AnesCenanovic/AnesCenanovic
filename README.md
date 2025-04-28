@@ -115,9 +115,6 @@ The things I'm currently learning :
   <a href="https://github.com/AnesCenanovic/RMABotanicalProject">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnesCenanovic&repo=RMABotanicalProject&theme=radical" />
   </a>
-  <a href="https://github.com/AnesCenanovic/Web-Technology">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Web-Technology&theme=radical" />
-  </a>
 </p>
 
 ---
