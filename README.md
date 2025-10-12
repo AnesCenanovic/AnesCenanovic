@@ -6,7 +6,7 @@
   <img alt="Shows an illustration of a very professional cat." src="https://www.expertlychosen.com/images/68-cat-or-dog-business-tie.jpg?height=600&mode=crop&scale=both&width=800">
 </picture>
 
-I'm a bachelor of Computer Science and Master's student based in Sarajevo, Bosnia and Herzegovina 🇧🇦, passionate about Software Engineering, Web Development, Backend Development and Artificial Intelligence (AI).
+I'm a final year Computer Science bachelor student based in Sarajevo, Bosnia and Herzegovina 🇧🇦, passionate about Software Engineering, Web Development, Backend Development and Artificial Intelligence (AI).
 
 My practical experience includes:
 
@@ -17,7 +17,7 @@ My practical experience includes:
 
 The things I'm currently learning :
 
-* 🌱 I’m currently learning more about full-stack Web Development, Artificial Intelligence and Cloud Computing.
+* 🌱 I’m currently learning more about full-stack Web Development, Artificial Intelligence, Quality Assurance and Automated Testing.
 * 👯 I’m looking to collaborate on open-source AI projects and web applications.
 * 📫 How to reach me: acenanovic1@etf.unsa.ba / https://www.linkedin.com/in/anes-%C4%87enanovi%C4%87-61882831a/
 
@@ -106,11 +106,11 @@ The things I'm currently learning :
   <a href="https://github.com/AnesCenanovic/RealEstateWeb">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnesCenanovic&repo=RealEstateWeb&theme=radical" />
   </a>
-  <a href="https://github.com/AnesCenanovic/OOAD-G6-FAAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnesCenanovic&repo=OOAD-G6-FAAME&theme=radical" />
+  <a href="https://github.com/AnesCenanovic/IncluEd---educational-web-platform">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnesCenanovic&repo=IncluEd---educational-web-platform&theme=radical" />
   </a>
-  <a href="https://github.com/AnesCenanovic/OBEM-alphaTeam">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnesCenanovic&repo=OBEM-alphaTeam&theme=radical" />
+  <a href="https://github.com/AnesCenanovic/remote-control-gateway">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnesCenanovic&repo=remote-control-gateway&theme=radical" />
   </a>
   <a href="https://github.com/AnesCenanovic/RMABotanicalProject">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnesCenanovic&repo=RMABotanicalProject&theme=radical" />
