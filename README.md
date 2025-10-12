@@ -6,7 +6,7 @@
   <img alt="Shows an illustration of a very professional cat." src="https://www.expertlychosen.com/images/68-cat-or-dog-business-tie.jpg?height=600&mode=crop&scale=both&width=800">
 </picture>
 
-I'm a final year Computer Science bachelor student based in Sarajevo, Bosnia and Herzegovina 🇧🇦, passionate about Software Engineering, Web Development, Backend Development and Artificial Intelligence (AI).
+I'm a bachelor of Computer Science and Master's student based in Sarajevo, Bosnia and Herzegovina 🇧🇦, passionate about Software Engineering, Web Development, Backend Development and Artificial Intelligence (AI).
 
 My practical experience includes:
 
@@ -17,7 +17,7 @@ My practical experience includes:
 
 The things I'm currently learning :
 
-* 🌱 I’m currently learning more about full-stack Web Development, Artificial Intelligence, Quality Assurance and Automated Testing.
+* 🌱 I’m currently learning more about full-stack Web Development, Artificial Intelligence and Cloud Computing.
 * 👯 I’m looking to collaborate on open-source AI projects and web applications.
 * 📫 How to reach me: acenanovic1@etf.unsa.ba / https://www.linkedin.com/in/anes-%C4%87enanovi%C4%87-61882831a/
 
