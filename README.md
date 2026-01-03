@@ -6,16 +6,16 @@
   <img alt="Shows an illustration of a very professional cat." src="https://www.expertlychosen.com/images/68-cat-or-dog-business-tie.jpg?height=600&mode=crop&scale=both&width=800">
 </picture>
 
-I'm a final year Computer Science bachelor student based in Sarajevo, Bosnia and Herzegovina 🇧🇦, passionate about Software Engineering, Web Development, Backend Development and Artificial Intelligence (AI).
+I'm a bachelor and 1st year Computer Science master student based in Sarajevo, Bosnia and Herzegovina 🇧🇦, passionate about Software Engineering, Web Development, Backend Development and Artificial Intelligence (AI).
 
 My practical experience includes:
 
 *   🚀 Full-stack Web Development
-*   🧠 AI Applications (Neural Networks, Web Scraping)
+*   🧠 AI Applications (Neural Networks, Web Scraping, AI Agents)
 *   📱 Mobile Application Development
 *   📱 Desktop Application Development
 
-The things I'm currently learning :
+Things I'm currently learning :
 
 * 🌱 I’m currently learning more about full-stack Web Development, Artificial Intelligence, Quality Assurance and Automated Testing.
 * 👯 I’m looking to collaborate on open-source AI projects and web applications.
@@ -74,7 +74,6 @@ The things I'm currently learning :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> Docker |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code> GitHub |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-actions/github-actions.png"></code> GitHub Actions |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitbucket/bitbucket.png"></code> Bitbucket |
 <code><img height="20" src="https://raw.githubusercontent.com/auth0/auth0-styleguide/master/brand/logo/auth0-icon.svg"></code> Auth0
 
