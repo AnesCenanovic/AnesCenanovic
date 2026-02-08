@@ -8,16 +8,14 @@
 
 I'm a bachelor and 1st year Computer Science master student based in Sarajevo, Bosnia and Herzegovina 🇧🇦, passionate about Software Engineering, Web Development, Backend Development and Artificial Intelligence (AI).
 
-My practical experience includes:
+My current work is focused on:
 
 *   🚀 Full-stack Web Development
-*   🧠 AI Applications (Neural Networks, Web Scraping, AI Agents)
-*   📱 Mobile Application Development
-*   📱 Desktop Application Development
+*   🧠 AI Applications (Neural Networks, Web Scraping, AI Agents, sim.ai platform)
 
 Things I'm currently learning :
 
-* 🌱 I’m currently learning more about full-stack Web Development, Artificial Intelligence, Quality Assurance and Automated Testing.
+* 🌱 I’m currently learning more about Artificial Intelligence and Agentic application development
 * 👯 I’m looking to collaborate on open-source AI projects and web applications.
 * 📫 How to reach me: acenanovic1@etf.unsa.ba / https://www.linkedin.com/in/anes-%C4%87enanovi%C4%87-61882831a/
 
@@ -29,7 +27,6 @@ Things I'm currently learning :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> TypeScript |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> Python |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> Java |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> C# |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> C++ |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> C |
@@ -74,7 +71,6 @@ Things I'm currently learning :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> Docker |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> Git |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code> GitHub |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitbucket/bitbucket.png"></code> Bitbucket |
 <code><img height="20" src="https://raw.githubusercontent.com/auth0/auth0-styleguide/master/brand/logo/auth0-icon.svg"></code> Auth0
 
 **Game Development:**
@@ -84,8 +80,6 @@ Things I'm currently learning :
 **Tools & Others:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> VS Code |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio.png"></code> Visual Studio |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android-studio/android-studio.png"></code> Android Studio |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/intellij-idea/intellij-idea.png"></code> IntelliJ IDEA |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postman/postman.png"></code> Postman |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code> Figma |
 
