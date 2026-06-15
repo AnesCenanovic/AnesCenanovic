@@ -1,12 +1,13 @@
-## Hello there 👋 I'm Anes!
+## Hello 👋 I'm Anes
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.expertlychosen.com/images/68-cat-or-dog-business-tie.jpg?height=600&mode=crop&scale=both&width=800">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.expertlychosen.com/images/68-cat-or-dog-business-tie.jpg?height=600&mode=crop&scale=both&width=800">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.redd.it/hbbpb5fdtlqb1.jpg?height=600&mode=crop&scale=both&width=800">
   <img alt="Shows an illustration of a very professional cat." src="https://www.expertlychosen.com/images/68-cat-or-dog-business-tie.jpg?height=600&mode=crop&scale=both&width=800">
 </picture>
 
-Junior Software Developer and 1st year Computer Science master student based in Sarajevo, Bosnia and Herzegovina 🇧🇦. I build intelligent systems at the intersection of AI and web development—specializing in agentic applications, RAG architectures, and full-stack solutions.
+Junior Software Developer & 1st year Computer Science master student based in Sarajevo, Bosnia and Herzegovina 🇧🇦. 
+
+I build intelligent systems at the intersection of AI and web development—specializing in agentic applications, RAG architectures, and full-stack solutions.
 
 ### 🚀 Current Focus
 
@@ -30,21 +31,18 @@ Currently deepening my expertise in agentic application development, retrieval-a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> TypeScript |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> C# |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> C++ |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code> Kotlin |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> SQL
 
 **Frontend Development:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React |
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> Angular |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> Vue.js |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code> Tailwind CSS |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vite/vite.png"></code> Vite
 
 **Backend Development:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node.js |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> Express.js |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code> .NET |
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swagger/swagger.png"></code> Swagger
 
 **AI & Machine Learning:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> TensorFlow |
@@ -55,6 +53,7 @@ Currently deepening my expertise in agentic application development, retrieval-a
 
 **Databases:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> MongoDB |
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png"></code> Postgres |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> MySQL | 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlite/sqlite.png"></code> SQLite | Oracle
 
